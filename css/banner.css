@@ -1,0 +1,9 @@
+.banner {
+position: relative;
+  height: auto;
+  max-width: 100%; 
+    padding: 50px;
+  left: 0px;
+  right: 0px;
+  z-index: -1;
+}

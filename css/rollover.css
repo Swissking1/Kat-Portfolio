@@ -1,0 +1,13 @@
+<style type="text/css">
+.rollover a {     display : block;
+                     width : **px;
+                     height : **px;
+                     background-image:url( IMG-1 ); }
+
+.rollover a:hover { display : block;
+                      width : **px;
+                      height : **px;
+                      background-image:url( IMG-2 ); }
+</style>
+
+<div class="rollover" > <a href="#"></a> </div>
